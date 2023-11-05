@@ -1,5 +1,12 @@
+import java.io.InputStream;
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        Scanner scan = new Scanner(InputStream.nullInputStream());
+
+
+
     }
 }
